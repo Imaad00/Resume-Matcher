@@ -252,7 +252,7 @@ with st.sidebar:
     st.markdown(
         "Give Resume Matcher a ⭐ on [GitHub](https://github.com/Imaad00/Resume-Matcher)"
     )
-    badge(type="github", name="Imaad00")
+    badge(type="github", name="Imaad00/Resume-Matcher")
     st.markdown("Follow me on Twitter.")
     badge(type="twitter", name="ImaadSharieff")
     st.markdown(
