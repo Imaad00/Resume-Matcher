@@ -1,0 +1,271 @@
+{
+              "bi_grams": "[Job Description, Description Senior, Stack Engineer, + Years, Tech Solutions, Solutions San, San Francisco, Tech Solutions, leading technology, technology company, creates innovative, innovative solutions, improve lives, advanced technology, currently seeking, dynamic team, Job Description, Stack Engineer, + years, developing web, web applications, successful candidate, experience working, backend technologies, overseeing projects, production deployment, end website, website architecture, Designing user, user interactions, web pages, end website, website applications, Creating servers, Ensuring crossplatform, crossplatform optimization, mobile phones, finished product, developing APIs, consumer needs, Staying abreast, web applications, programming languages, Computer Science, similar field, + years, web development, Strong organizational, project management, management skills, end languages, HTML CSS, serverside languages, Python Ruby, Ruby Java, Java PHP, database technology, MySQL Oracle, Excellent verbal, verbal communication, communication skills, Good problemsolving, problemsolving skills, Competitive salary, salary package, Health dental, vision insurance, Retirement savings, savings plan, Professional development, development opportunities, Flexible work, work hours, Tech Solutions, equal opportunity, opportunity employer, value diversity, brief explanation, relevant experience]",
+              "clean_data": "Job Description Senior Full Stack Engineer 5+ Years of\nExperience\nTech Solutions San Francisco CA USA\nAbout Us\nTech Solutions is a leading technology company that creates innovative solutions across a variety of industries\nOur mission is to improve lives through advanced technology We\u2019re currently seeking a Senior Full Stack\nEngineer to join our dynamic team\nJob Description\nWe\u2019re looking for a Senior Full Stack Engineer with 5+ years of experience in developing web applications\nThe successful candidate will have experience working with both frontend and backend technologies and\nwill be capable of overseeing projects from conception to production deployment\nResponsibilities\n\u2022 Developing front end website architecture\n\u2022 Designing user interactions on web pages\n\u2022 Developing back end website applications\n\u2022 Creating servers and databases for functionality\n\u2022 Ensuring crossplatform optimization for mobile phones\n\u2022 Seeing through a project from conception to finished product\n\u2022 Designing and developing APIs\n\u2022 Meeting both technical and consumer needs\n\u2022 Staying abreast of developments in web applications and programming languages\nRequirements\n\u2022 Degree in Computer Science or similar field\n\u2022 5+ years of experience in web development\n\u2022 Strong organizational and project management skills\n\u2022 Proficiency with fundamental front end languages such as HTML CSS and JavaScript\n\u2022 Proficiency with serverside languages such as Python Ruby Java PHP and Net\n\u2022 Familiarity with database technology such as MySQL Oracle and MongoDB\n1 \u2022 Excellent verbal communication skills\n\u2022 Good problemsolving skills\n\u2022 Attention to detail\nBenefits\n\u2022 Competitive salary package\n\u2022 Health dental and vision insurance\n\u2022 Retirement savings plan\n\u2022 Professional development opportunities\n\u2022 Flexible work hours\nTech Solutions is an equal opportunity employer and we value diversity at our company\nHow to Apply\nTo apply please submit your resume and a brief explanation of your relevant experience \n2",
+              "emails": [
+                            "tohiring@techsolutions.com"
+              ],
+              "entities": [
+                            "\u2022 Good",
+                            "\u2022 Professional",
+                            "Tech Solutions",
+                            "\u2022 Ensuring",
+                            "JavaScript",
+                            "\u2022 Flexible",
+                            "\u2022 Strong",
+                            "Python Ruby",
+                            "\u2022 Retirement",
+                            "\u2022 Attention",
+                            "\u2022 Designing",
+                            "\u2022 Health",
+                            "HTML CSS",
+                            "\u2022 Developing",
+                            "\u2022 Staying"
+              ],
+              "experience": "Experience \n Tech Solutions San Francisco CA USA \n About Us \n Tech Solutions is a leading technology company that creates innovative solutions across a variety of industries \n Our mission is to improve lives through advanced technology We \u2019re currently seeking a Senior Full Stack \n Engineer to join our dynamic team \n Job Description \n We \u2019re looking for a Senior Full Stack Engineer with 5 + years of experience in developing web applications \n The successful candidate will have experience working with both frontend and backend technologies and \n will be capable of overseeing projects from conception to production deployment \n Responsibilities \n \u2022 Developing front end website architecture \n \u2022 Designing user interactions on web pages \n \u2022 Developing back end website applications \n \u2022 Creating servers and databases for functionality \n \u2022 Ensuring crossplatform optimization for mobile phones \n \u2022 Seeing through a project from conception to finished product \n \u2022 Designing and developing APIs \n \u2022 Meeting both technical and consumer needs \n \u2022 Staying abreast of developments in web applications and programming languages \n Requirements \n \u2022 Degree in Computer Science or similar field \n \u2022 5 + years of experience in web development \n \u2022 Strong organizational and project management skills \n \u2022 Proficiency with fundamental front end languages such as HTML CSS and JavaScript \n \u2022 Proficiency with serverside languages such as Python Ruby Java PHP and Net \n \u2022 Familiarity with database technology such as MySQL Oracle and MongoDB \n 1 \u2022 Excellent verbal communication skills \n \u2022 Good problemsolving skills \n \u2022 Attention to detail \n Benefits \n \u2022 Competitive salary package \n \u2022 Health dental and vision insurance \n \u2022 Retirement savings plan \n \u2022 Professional development opportunities \n \u2022 Flexible work hours \n Tech Solutions is an equal opportunity employer and we value diversity at our company \n How to Apply \n To apply please submit your resume and a brief explanation of your relevant experience \n 2",
+              "extracted_keywords": [
+                            "Job",
+                            "Description",
+                            "Senior",
+                            "Full",
+                            "Stack",
+                            "Engineer",
+                            "Years",
+                            "Experience",
+                            "Tech",
+                            "Solutions",
+                            "San",
+                            "Francisco",
+                            "CA",
+                            "USA",
+                            "Us",
+                            "Tech",
+                            "Solutions",
+                            "technology",
+                            "company",
+                            "solutions",
+                            "variety",
+                            "industries",
+                            "mission",
+                            "lives",
+                            "technology",
+                            "Senior",
+                            "Full",
+                            "Stack",
+                            "Engineer",
+                            "team",
+                            "Job",
+                            "Description",
+                            "Senior",
+                            "Full",
+                            "Stack",
+                            "Engineer",
+                            "years",
+                            "experience",
+                            "web",
+                            "applications",
+                            "candidate",
+                            "experience",
+                            "frontend",
+                            "technologies",
+                            "projects",
+                            "conception",
+                            "production",
+                            "deployment",
+                            "Responsibilities",
+                            "end",
+                            "website",
+                            "architecture",
+                            "Designing",
+                            "user",
+                            "interactions",
+                            "web",
+                            "pages",
+                            "end",
+                            "website",
+                            "applications",
+                            "servers",
+                            "databases",
+                            "functionality",
+                            "Ensuring",
+                            "crossplatform",
+                            "optimization",
+                            "phones",
+                            "project",
+                            "conception",
+                            "product",
+                            "APIs",
+                            "Meeting",
+                            "consumer",
+                            "needs",
+                            "abreast",
+                            "developments",
+                            "web",
+                            "applications",
+                            "programming",
+                            "languages",
+                            "Requirements",
+                            "Degree",
+                            "Computer",
+                            "Science",
+                            "field",
+                            "years",
+                            "experience",
+                            "web",
+                            "development",
+                            "project",
+                            "management",
+                            "skills",
+                            "Proficiency",
+                            "end",
+                            "languages",
+                            "HTML",
+                            "CSS",
+                            "JavaScript",
+                            "Proficiency",
+                            "serverside",
+                            "languages",
+                            "Python",
+                            "Ruby",
+                            "Java",
+                            "PHP",
+                            "Net",
+                            "Familiarity",
+                            "database",
+                            "technology",
+                            "MySQL",
+                            "Oracle",
+                            "MongoDB",
+                            "communication",
+                            "skills",
+                            "skills",
+                            "Attention",
+                            "Benefits",
+                            "salary",
+                            "package",
+                            "Health",
+                            "vision",
+                            "insurance",
+                            "Retirement",
+                            "savings",
+                            "plan",
+                            "development",
+                            "opportunities",
+                            "work",
+                            "hours",
+                            "Tech",
+                            "Solutions",
+                            "opportunity",
+                            "employer",
+                            "diversity",
+                            "company",
+                            "resume",
+                            "explanation",
+                            "experience"
+              ],
+              "keyterms": [
+                            [
+                                          "Senior Full Stack Engineer",
+                                          0.57913491426259
+                            ],
+                            [
+                                          "Job Description",
+                                          0.04724746725596962
+                            ],
+                            [
+                                          "Tech Solutions",
+                                          0.036942373892736656
+                            ],
+                            [
+                                          "technology",
+                                          0.024205154665400904
+                            ],
+                            [
+                                          "web application",
+                                          0.015742826855520916
+                            ],
+                            [
+                                          "end website",
+                                          0.01303760532615497
+                            ],
+                            [
+                                          "experience",
+                                          0.012846221912805798
+                            ],
+                            [
+                                          "company",
+                                          0.011315128639494174
+                            ],
+                            [
+                                          "project",
+                                          0.007801523411437298
+                            ],
+                            [
+                                          "year",
+                                          0.006759443385745761
+                            ],
+                            [
+                                          "development",
+                                          0.00561659815715242
+                            ],
+                            [
+                                          "database",
+                                          0.005404306985048767
+                            ],
+                            [
+                                          "language",
+                                          0.004896175699529045
+                            ],
+                            [
+                                          "skill",
+                                          0.004790515680597899
+                            ],
+                            [
+                                          "conception",
+                                          0.004714063532911204
+                            ],
+                            [
+                                          "proficiency",
+                                          0.003272768395634027
+                            ],
+                            [
+                                          "solution",
+                                          0.003212260948582916
+                            ],
+                            [
+                                          "innovative",
+                                          0.00317370392294881
+                            ],
+                            [
+                                          "industry",
+                                          0.0031196842100464505
+                            ],
+                            [
+                                          "variety",
+                                          0.0031194088651002425
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 29,
+                            "ADP": 38,
+                            "ADV": 3,
+                            "AUX": 8,
+                            "CCONJ": 15,
+                            "DET": 8,
+                            "INTJ": 1,
+                            "NOUN": 104,
+                            "NUM": 9,
+                            "PART": 5,
+                            "PRON": 10,
+                            "PROPN": 48,
+                            "SCONJ": 1,
+                            "SPACE": 40,
+                            "SYM": 1,
+                            "VERB": 22
+              },
+              "resume_data": "Job Description: Senior Full Stack Engineer (5+ Years of\nExperience)\nTech Solutions, San Francisco, CA, USA\nAbout Us\nTech Solutions is a leading technology company that creates innovative solutions across a variety of industries.\nOur mission is to improve lives through advanced technology. We\u2019re currently seeking a Senior Full Stack\nEngineer to join our dynamic team.\nJob Description\nWe\u2019re looking for a Senior Full Stack Engineer with 5+ years of experience in developing web applications.\nThe successful candidate will have experience working with both front-end and back-end technologies, and\nwill be capable of overseeing projects from conception to production deployment.\nResponsibilities\n\u2022 Developing front end website architecture.\n\u2022 Designing user interactions on web pages.\n\u2022 Developing back end website applications.\n\u2022 Creating servers and databases for functionality.\n\u2022 Ensuring cross-platform optimization for mobile phones.\n\u2022 Seeing through a project from conception to finished product.\n\u2022 Designing and developing APIs.\n\u2022 Meeting both technical and consumer needs.\n\u2022 Staying abreast of developments in web applications and programming languages.\nRequirements\n\u2022 Degree in Computer Science or similar field.\n\u2022 5+ years of experience in web development.\n\u2022 Strong organizational and project management skills.\n\u2022 Proficiency with fundamental front end languages such as HTML, CSS, and JavaScript.\n\u2022 Proficiency with server-side languages such as Python, Ruby, Java, PHP, and .Net.\n\u2022 Familiarity with database technology such as MySQL, Oracle, and MongoDB.\n1 \u2022 Excellent verbal communication skills.\n\u2022 Good problem-solving skills.\n\u2022 Attention to detail.\nBenefits\n\u2022 Competitive salary package.\n\u2022 Health, dental, and vision insurance.\n\u2022 Retirement savings plan.\n\u2022 Professional development opportunities.\n\u2022 Flexible work hours.\nTech Solutions is an equal opportunity employer and we value diversity at our company.\nHow to Apply\nTo apply, please submit your resume and a brief explanation of your relevant experience tohiring@techsolutions.com.\n2",
+              "tri_grams": "[Job Description Senior, Senior Full Stack, Tech Solutions San, Solutions San Francisco, Francisco CA USA, leading technology company, company that creates, creates innovative solutions, variety of industries, lives through advanced, seeking a Senior, Senior Full Stack, Engineer to join, join our dynamic, Senior Full Stack, years of experience, experience in developing, developing web applications, frontend and backend, capable of overseeing, projects from conception, conception to production, Developing front end, end website architecture, Designing user interactions, interactions on web, Developing back end, end website applications, servers and databases, databases for functionality, Ensuring crossplatform optimization, optimization for mobile, project from conception, conception to finished, Designing and developing, Meeting both technical, technical and consumer, abreast of developments, developments in web, applications and programming, Degree in Computer, Science or similar, years of experience, experience in web, organizational and project, project management skills, Proficiency with fundamental, fundamental front end, CSS and JavaScript, Proficiency with serverside, Python Ruby Java, Ruby Java PHP, PHP and Net, Familiarity with database, Oracle and MongoDB, Excellent verbal communication, verbal communication skills, Good problemsolving skills, Attention to detail, Competitive salary package, dental and vision, Retirement savings plan, Professional development opportunities, Flexible work hours, equal opportunity employer, apply please submit, submit your resume]",
+              "unique_id": "ba306cce-0605-4cb8-bd55-304ee87b7243",
+              "years": []
+}

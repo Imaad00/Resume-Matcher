@@ -1,0 +1,12 @@
+2025-05-10 19:07:30,996 (run_first.py:48) - INFO: Started to read from Data/Resumes
+2025-05-10 19:07:30,997 (run_first.py:45) - INFO: Deleted old files from C:\Users\imaad\Desktop\Resume-Matcher\Data\Processed\Resumes
+2025-05-10 19:07:30,997 (run_first.py:59) - INFO: Reading from Data/Resumes is now complete.
+2025-05-10 19:07:30,998 (run_first.py:70) - INFO: Started parsing the resumes.
+2025-05-10 19:07:33,815 (core.py:65) - INFO: loaded 'en_core_web_md' spaCy language pipeline
+2025-05-10 19:07:39,088 (run_first.py:74) - INFO: Parsing of the resumes is now complete.
+2025-05-10 19:07:39,088 (run_first.py:76) - INFO: Started to read from Data/JobDescription
+2025-05-10 19:07:39,088 (run_first.py:45) - INFO: Deleted old files from C:\Users\imaad\Desktop\Resume-Matcher\Data\Processed\JobDescription
+2025-05-10 19:07:39,089 (run_first.py:87) - INFO: Reading from Data/JobDescription is now complete.
+2025-05-10 19:07:39,089 (run_first.py:100) - INFO: Started parsing the Job Descriptions.
+2025-05-10 19:07:43,950 (run_first.py:104) - INFO: Parsing of the Job Descriptions is now complete.
+2025-05-10 19:07:43,951 (run_first.py:105) - INFO: Success now run `streamlit run streamlit_second.py`
