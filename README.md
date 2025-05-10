@@ -52,6 +52,13 @@ streamlit run streamlit_second.py
 # OR Step 7: Run Interactive Matching for One Resume and JD
 streamlit run streamlit_interactive.py
 ```
+## 📬 Contact Me
+
+📧 **Email**: imaadsharieff266@gmail.com  
+🐦 **Twitter**: [ImaadSharieff](https://twitter.com/ImaadSharieff)  
+💼 **LinkedIn**: [mohammed-imaad-sharieff](https://www.linkedin.com/in/mohammed-imaad-sharieff)  
+📞 **Contact Me**: Open an issue or connect via the contact info above.
+
 ## 📌 License
 This project is licensed under the Apache 2.0 License.
 
